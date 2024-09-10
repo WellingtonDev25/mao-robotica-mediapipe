@@ -7,5 +7,6 @@ No o arduino vamos apenas instalar a biblioteca Pyfirmata Standard para comunica
 
 O passo a passo para instalação é mostrado no vídeo do Youtube.
 
+* Para esse projeto reconmendo usar Python na versão 3.9
 
 ![image](https://github.com/user-attachments/assets/01af0426-7514-437f-aecc-d2267797de2d)
